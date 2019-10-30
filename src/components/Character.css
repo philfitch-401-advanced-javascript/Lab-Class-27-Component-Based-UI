@@ -1,0 +1,16 @@
+.Character {
+  align-items: space-between;
+  font-family: arial;
+  background-color: rgb(164, 205, 212);  
+  max-width: 300px;
+  display: inline-grid;
+  
+  div {
+    
+    dd{
+      font-size: 1.5rem;
+      font-weight: bold;
+    }
+  }
+  
+}
